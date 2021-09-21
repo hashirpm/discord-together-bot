@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "config": "^3.3.6",
+    "discord-together": "^1.1.62",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "youtube-search-api": "^1.0.10",
+    "ytdl-core": "^4.9.1"
+  }
+}
